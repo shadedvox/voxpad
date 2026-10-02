@@ -3,9 +3,9 @@ A macropad purpose built for me.
 Built with Blueprint, Hackclub. It is a Macropad with 11 keys, a Rotary Encoder, 1 0.91 128x32 OLED and the SEEED XIAO RP2040.
 
 ### Build
-![1](assets/finish1.png)
-![2](assets/finish2.png)
-![3](assets/finish3.png)
+![1](assets/finish1.jpg)
+![2](assets/finish2.jpg)
+![3](assets/finish3.jpg)
 
 ### Layout
 
