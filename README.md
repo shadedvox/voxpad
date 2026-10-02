@@ -30,3 +30,7 @@ Others:
 Schematic            |  PCB
 :-------------------------:|:-------------------------:|
 ![Circuit](assets/circuit1_new.png)     |        ![PCB](assets/pcb_new.png)
+
+---
+
+*© 2026 Atharva Chauhan, Vox*
