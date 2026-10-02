@@ -1,4 +1,4 @@
-# Chauhan's Macropad
+# Voxpad
 A macropad purpose built for me.
 Built with Blueprint, Hackclub. It is a Macropad with 11 keys, a Rotary Encoder, 1 0.91 128x32 OLED and the SEEED XIAO RP2040.
 
